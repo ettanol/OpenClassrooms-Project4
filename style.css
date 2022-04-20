@@ -301,7 +301,7 @@ a:hover {
 }
 
 #bloc-2-services p:first-child{
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     color: #ccc;
 }
 
@@ -711,7 +711,7 @@ p {
 }
 
 .h1 {
-    font-size: 20px;
+    font-size: 24px;
     font-family: "Open Sans";
 }
 
@@ -730,12 +730,13 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 20px;
+    font-weight: 600;
     line-height: 1.4em;
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
@@ -798,13 +799,13 @@ h4 {
     background-color: #F3976C;
 }
 
-.tc-white {
+.tc-tangerine {
     color: #F3976C!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #111!important;
 }
 
 .btn-atomic-tangerine:hover {
