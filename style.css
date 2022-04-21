@@ -31,15 +31,6 @@ a:hover {
     cursor: pointer;
 }
 
-#page-loading-blocs-notifaction {
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    width: 100%;
-    z-index: 100000;
-    background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
-}
-
 .bloc {
     width: 100%;
     clear: both;
@@ -277,14 +268,6 @@ a:hover {
     border-color: rgba(0, 0, 0, .3);
 }
 
-.voffset {
-    margin-top: 30px;
-}
-
-.voffset-lg {
-    margin-top: 80px;
-}
-
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
@@ -325,7 +308,7 @@ a:hover {
 }
 
 .navbar-brand img {
-    max-height: 200px;
+    height: 40px;
     margin: 0 5px 0 0;
     display: inline;
 }
@@ -844,7 +827,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpeg");
 }
 
 @media (max-width: 1024px) {
