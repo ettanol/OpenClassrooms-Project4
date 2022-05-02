@@ -339,9 +339,9 @@ a:hover {
     text-align: inherit;
 }
 
-.nav > li a:hover,
-.nav > li a:focus {
-    background: transparent;
+.navbar-nav > .nav-item a:hover,
+.navbar-nav > .nav-item a:focus {
+    border-bottom: 2px solid #111;
 }
 
 .navbar-toggle {
